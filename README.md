@@ -7,10 +7,10 @@ All the code also contains comments about what it does, so you can easily find o
 Contributed by Artur, Baiyi and Chao (ABC are our initials).  
 
 **Use instructions:**
-1. Git clone "git clone https://github.com/Arbruiser/ABC_search.git".
-2. In the venv run "pip3 install ." to install all the necessary dependencies automatically.
-3. Run the command ./run_site from the root of the repository to automatically get the website running.
-4. Open http://127.0.0.1:8000 in your browser.
+1. Git clone `git clone https://github.com/chaowang0524/ABC_search.git`.
+2. In the venv run `pip3 install .` to install all the necessary dependencies automatically.
+3. Run the command `./run_site` from the root of the repository to automatically get the website running.
+4. Open `http://127.0.0.1:8000` in your browser.
   
 ## Description of files:
 ### **ABC_search/** :   
