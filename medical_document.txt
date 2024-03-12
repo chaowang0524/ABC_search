@@ -2717,3 +2717,452 @@ There are externally visible indicators of osteoporosis as well.
 For people diagnosed with osteoporosis, Dr. Robins also endorsed caution and medication.
 “Taking the time to do exercises to improve your balance and flexibility can help prevent falls that could cause bone injury,” she said.
 It is also a good idea to ask one’s physician about drugs that can help the worsening of osteoporosis, such as Fosamax and Prolia, which Dr. Robins noted can help strengthen bones.
+
+https://www.medicalnewstoday.com/articles/a-dna-diet-may-help-reduce-type-2-diabetes-risk-new-study-argues
+A 'DNA diet' may help reduce type 2 diabetes risk, new study argues
+New research suggests that a diet tailored to an individual’s DNA profile could play a role in managing blood sugar levels and reducing the risk of developing type 2 diabetes among high-risk individuals.
+The pilot study, involving 148 participants, combined genetic profiling with personalised dietary advice, demonstrating significant improvements in blood glucose control compared to traditional dietary interventions.
+This research underscores the potential benefits of using genetic data to tailor health interventions, however, more extensive trials are needed to validate these findings.
+Diabetes is a chronic disease that affects how the body handles blood glucose (sugar). With type 2 diabetes, the body does not make or use insulin effectively.
+Prediabetes is a state in which a person’s blood glucose levels are elevated beyond the normal range, yet not sufficiently high to meet the criteria for type 2 diabetes.
+This state is reversible, unlike diabetes, but without intervention, 5–13% of individuals with prediabetes may advance to type 2 diabetes. Lifestyle changes can cut the progression from prediabetes to type 2 diabetes by half.
+Many healthcare professionals, particularly in the United Kingdom, follow National Institute for Health and Care Excellence (NICE) guidelines to promote better diets and more exercise, though these measures can be expensive and effort-intensive.
+It is known that genetic markers can help forecast an individual’s likelihood of developing chronic diseases often linked to diet.
+For instance, modifying intake of salt and saturated fats can mitigate cardiovascular risks, while altering sugar and saturated fat consumption can reduce the risk of type 2 diabetes.
+In a new study, undertaken by Imperial College London in the United Kingdom and DnaNudge, and published in Scientific Reports, researchers investigated diets customised to an individual’s DNA — to assist participants in controlling blood sugar levels and decrease the chances of developing type 2 diabetes.
+Personalised DNA-based diets are a new approach to preventing diabetes
+Researchers recruited 148 individuals with elevated blood sugar levels and conducted initial assessments by measuring fasting plasma glucose (FPG) — the sugar level in the blood when one has not eaten for a while — and glycated hemoglobin (HbA1c), which indicates average blood sugar levels over the past 2 to 3 months.
+Participants completed a food frequency questionnaire to provide details on their regular consumption of specific food items.
+The research team then divided the study participants into three groups:
+This technology allowed them to scan product barcodes to get personalised food and beverage suggestions based on their DNA while shopping.
+The researchers reassessed the participants’ FPG and HbA1c levels at intervals of 6, 12, and 26 weeks. Initially, at the 6-week mark, there was no noticeable difference in health outcomes between the groups.
+By the time they checked in at 26 weeks, people who were following a diet based on their DNA — whether they were using the DnaNudge app or not — had noticeable improvements in their blood sugar levels compared to those who weren’t on this special diet.
+In simple terms, both groups trying this DNA-guided diet saw their fasting blood sugar and HbA1c levels — which is another measure of blood sugar — drop.
+While the NICE recommendations for lifestyle changes—such as incorporating fruits, vegetables, healthy fats and whole grains into your diet—are grounded in evidence and beneficial for the general population, the study suggests that customising dietary advice based on an individual’s genetic profile may offer superior benefits.
+However, the researchers advise caution in interpreting these results due to the study’s limited scale, stressing the need for validation through a larger, randomised controlled trial.
+Promising findings but more research needed
+Dr. Stainely Williams from Community Health of South Florida Inc., not involved in this research, told Medical News Today that “the standard practice for people with high blood sugar levels in Europe, which in the United States we would call ‘prediabetic patients,’ is to advise people to eat foods low in starch in consultation with a dietician.”
+“This study, as it stands, doesn’t show that the standard of care should be changed, including when it comes to implementing individualized DNA-focused diet consultation,” he cautioned.
+“But this study is promising in that it suggests it’s worth doing more studies of greater scope,” added Dr. Williams.
+“This is typical of a pilot study, which is what this is. So, this means we have some promising data, but it hasn’t really proven anything yet, and we will need a lot more data before we can make any recommendations based on it. As a physician I would never make decisions for my patients based on pilot studies,” he emphasized.
+Colette Micko, RDN, registered dietitian at Top Nutrition Coaching, also not involved in the study, told MNT that “this was a very interesting research study in the field of nutrigenomics.”
+“It shows the need for more personalized care in the field of prediabetes/diabetes,” Micko pointed out.
+“While standards of care and general dietary advice can be impactful on populations, this study shows that personalized dietary interventions based on an individual’s DNA can lead to better improvements on blood sugar control — including improved fasting plasma glucose and hemoglobin A1C.”
+– Colette Micko
+Potential implications for blood sugar control
+“While the study is trying to show the benefit of DNA-related diet counseling in managing blood glucose levels, future studies have to go far beyond this primary objective before we arrive at data that is significant and applicable,” said Dr. Williams.
+“The implications for this research for patients and the public, if any, won’t be seen until we have further studies of greater scope. So, what the study really does is to lay the groundwork for further studies,” Dr. Williams explained.
+Micko agreed, noting that, “there were limitations to this study including a small sample size and high attrition at the 26-week mark.”
+“This randomized control trial needs to be replicated on a larger sample size with diverse ethnic, socioeconomic and biological backgrounds,” Micko said.
+However, she added, “the implications of this study for patients and the public is that more DNA-based nutrition interventions may be available in the future as a main tactic for disease prevention.”
+“Specifically, nutrition interventions will be tailored to your genetic predispositions,” she detailed.
+“This could also impact diabetes care management, as current treatment is based on the standards of care. It could potentially increase the need for app-based interventions, which could reduce costs and increase the span of care for people with prediabetes/diabetes all over the world.”
+
+https://www.medicalnewstoday.com/articles/could-an-intervention-as-simple-as-eye-drops-treat-eye-damage-in-diabetes
+Could an intervention as simple as eye drops treat eye damage in diabetes?
+About 537 million adults globally live with diabetes, with 90–95% of those cases being type 2 diabetes.
+People with diabetes are at an increased risk for several eye health conditions, including diabetic retinopathy and diabetic macular edema.
+Current treatments for diabetic retinopathy and diabetic macular edema are invasive and include medication injections into the eye and laser therapy.
+Data recently released for the phase 1b/2a trial of a new eye drop treatment for diabetic retinopathy and diabetic macular edema reported it to be safe and tolerable with 100% of participants completing the study.
+Researchers also reported a significant decrease in central macular thickness after 85 days of use, as well as inhibition of further increases in vascular leakage in study participants using the eye drop.
+About 537 million adults around the world live with diabetes, with 90–95% of those cases being type 2 diabetes.
+People with diabetes are at an increased risk for several health problems, including those related to the eyes. These include diabetic retinopathy, diabetic macular edema, glaucoma, cataracts, chronic dry eye, and retinal detachment.
+There is currently no cure for either diabetic retinopathy or diabetic macular edema. Current treatment options for both conditions include medications injected directly into the eye, laser treatments, and eye surgery.
+Soon, a less invasive treatment for diabetic retinopathy and diabetic macular edema may be available in the form of a simple eye drop.
+Data recently released from the new treatment’s phase 1b/2a trial reported it to be safe and tolerable, with 100% of participants completing the study.
+Additionally, researchers reported a significant decrease in central macular thickness after 85 days of use and inhibition of further increases in vascular leakage.
+The researchers will present the full results of the phase 1b/2a trial at the annual meeting of the Association for Research in Vision and Ophthalmology (ARVO) in May 2024.
+Sore need for new diabetes-related eye disease treatments
+According to Dr. Loic Lhuillier, chief operating officer of Exonate Ltd. — the manufacturer of the new eye drops — and presenting author of this study, new ways to treat diabetic retinopathy and diabetic macular edema are needed because the current standard of care for diabetic macular edema involves frequent injections of anti-VEGF agents in the eye, which, although efficacious, are uncomfortable and necessitate clinical time for the procedure.
+“There is a need for a noninvasive solution, which would improve [the] quality of life for these patients, by increasing patient comfort and, being self-administered, reducing inconvenience,” Dr. Lhuillier explained to Medical News Today.
+As for people with non-proliferative diabetic retinopathy — at the early stage of the disease — Dr. Lhuillier said they are not offered any solution, except being placed in a “watch and wait” cycle until their disease evolves to either proliferative diabetic retinopathy — a more advanced stage of the condition — or diabetic macular edema, when they are then prescribed anti-VEGF injections.
+“Finding a noninvasive, safe, and efficacious treatment for non-proliferative diabetic retinopathy patients would help prevent progression to more severe disease at an early stage,” he continued.
+“In the [United States] alone, it is estimated that around 7.7 million people have non-proliferative diabetic retinopathy, while 1.8 million have progressed to more severe forms of the disease, so there is a clear incentive to act early and minimize the appearance of sight-threatening complications,” said Dr. Lhuillier.
+A new SRPK1 inhibitor
+The new eye drop, called EXN407, is reportedly the first topical treatment for retinal vascular diseases such as diabetic retinopathy and diabetic macular edema.
+The eye drop is a small-molecule therapy using a serine-arginine protein kinase 1 (SRPK1) inhibitor.
+“Development of diabetic eye disease is driven by many factors, mainly the overgrowth of blood vessels in the retina,” Dr. Lhuillier detailed. “These blood vessels then become leaky, leading to the appearance of subretinal edema, and ultimately blindness. This phenomenon is triggered by a growth factor called VEGF.”
+“EXN407 is a molecule that allows the re-balancing of VEGF by only inhibiting the disease-causing members of the family while leaving the non-disease-causing members intact,” he added. “It offers a more subtle approach than anti-VEGF agents, added to the convenience of being an eyedrop formulation vs injection.”
+Improvements in macular thickness, vascular leakage
+According to the results of the phase 1b/2a clinical trial for EXN407, the eye drops were considered safe and well-tolerated as 100% of study participants completed the study and no major or serious adverse effects were reported.
+After the study, researchers reported that EXN407-administered study participants experienced a significant decrease in central macular thickness after 85 days.
+“Central macular thickness is a key anatomical trait of diabetic macular edema, which measures the size of the retinal edema,” Dr. Lhuillier explained.
+“A decrease in central macular thickness is well correlated with an improvement in visual acuity for patients with severe disease, so our results indicate that EXN407 could be beneficial in improving vision in these patients, something that we will assess in the next clinical trial.”
+– Dr. Loic Lhuillier
+Scientists also found that 60% of participants receiving EXN407 sustained a significant decrease in vascular leakage and 10% of those taking the eye drop did not experience further increases in vascular leakage, compared to those receiving the placebo.
+“Vascular leakage measures how blood vessels leak fluid in the retina,” Dr. Lhuillier said. “As such, it is a trait of the early stages of the disease, i.e. non-proliferative diabetic retinopathy, prior to the appearance of edema. Reducing vascular leakage is extremely significant as it is a clear indication that EXN407 could help slow the progression of the disease towards more severe forms.”
+Next steps in validating the clinical trial
+Looking ahead, Dr. Lhuillier said the phase 1b/2a trial only enrolled participants with mild non-proliferative diabetic retinopathy and diabetic macular edema.
+The next step with the phase 2b trial, he explained, is to demonstrate the effect of EXN407 in participants at a more advanced stage of the disease, presenting with non-proliferative diabetic retinopathy and significant diabetic macular edema.
+“This is essential as it will help to conclude whether EXN407 could be useful in [non-proliferative diabetic retinopathy], [diabetic macular edema], or both,” Dr. Lhuillier said. “We expect this next trial to deliver its results in around three years.”
+“Phase 3 trials will then need to be conducted to compare the efficacy of EXN407 against standard of care in the same patient population before applying for a market authorization,” he added. “These trials will be required to see patients treated for 12 months or more, so we are not expecting to see EXN407 being prescribed before 2031.”
+Promising new treatment for vision loss
+MNT spoke with Dr. Benjamin Bert, a board-certified ophthalmologist at MemorialCare Orange Coast Medical Center in Fountain Valley, CA, about EXN407’s phase 1b/2a trial results. Dr. Bert was not involved in the research.
+“We see the rates of diabetes increasing in the population and just by the nature of having more people with diabetes, we see more of the complications that happen with diabetes, and a good portion of those happen in the eyes,” he said.
+“The treatments that we have right now, the best treatments are typically injections into the eye itself that need to be repeated, sometimes on a monthly basis. So having an eye drop that you simply put in twice a day as they did with this experimental drug, instead of having to have an invasive procedure done, would be a huge benefit in being able to reduce the risks, especially of damage to the eye or the rates of infections.”
+– Dr. Benjamin Bert
+MNT also spoke to Dr. David Geffen, director of optometric and refractive services at the Gordon Schanzlin New Vision in La Jolla, CA, who commented that this study gives great promise to our diabetic retinopathy patients.
+“The ability to have an eyedrop rather than shots in the eye will be much more comforting for our patients and easier to maintain compliance,” Dr. Geffen continued. “With diabetes reaching epidemic proportions in this country, any new treatments will be most welcome to all medical providers. Blindness is one of the most feared side effects of diabetes and this treatment should come as a welcome addition to our treatment regime.”
+
+https://www.medicalnewstoday.com/articles/how-and-why-does-gut-health-influence-heart-health
+How and why does gut health influence heart health?
+Lately, there has been a lot of research looking at the link between the brain and the gut. We wanted to know: Is there a similar link between the heart and the gut? Doctors agree there most certainly is, and mostly it is mediated by the health and balance of the gut microbiome.
+A popular adage has it that “you are what you eat.” And every year new research continues to suggest that this idea may, in fact, be correct.
+Recently, scientists have been focusing on a potential link between the health of the gut and that of the heart.
+Doctors already recommend eating heart-healthy foods, and medical professionals agree that much of the correlation between heart and gut health has to do with the gut microbiome, including its composition, and a toxic byproduct it creates when metabolizing certain foods.
+Medical News Today spoke with five experts to get to the bottom of how much gut health truly impacts cardiovascular health.
+What is the gut microbiome?
+All the experts we spoke to agreed that the gut microbiome can have a profound impact on heart health.
+“The gut microbiome is a complex community of trillions of microorganisms, including bacteria, viruses, fungi, and protozoa, that reside in the human digestive tract, primarily in the large intestine (colon),” Dr. Nathaniel E. Lebowitz, a cardiologist with Hackensack University Medical Center in New Jersey explained to MNT.
+“These microorganisms can be healthy or unhealthy depending on what we feed them. If they are unhealthy, all of our body’s systems can go haywire. Just like we depend on the microbiome for our health, it depends on us for its health,” he detailed.
+“Keeping the microbiome healthy is increasingly found to be critically important for all of our organs — including the heart and arteries,” Dr. Lebowitz continued. “We know that inflammation is possibly the main driver these days when it comes to so many health problems, especially with the heart. The microbiome plays a big role in counteracting inflammation.”
+In turn, Dr. Cheng-Han Chen, a board-certified interventional cardiologist and medical director of the Structural Heart Program at MemorialCare Saddleback Medical Center in Laguna Hills, CA, told MNT that:
+“There’s more and more research coming out that there is a connection between the composition of someone’s gut flora or the microbiome. There’s a connection between the type, distribution, and relative composition of gut bacteria that someone has and an association with their risk factors for heart disease — that includes high blood pressure, high cholesterol, [and] obesity.”
+Past research has linked an unbalanced gut microbiome to an increased risk for several cardiovascular diseases, including coronary heart disease, heart failure, stroke, heart attack, hypertension, and atherosclerosis.
+What is TMAO?
+Another way in which the gut microbiome can potentially have harmful effects on the heart is through the production of trimethylamine-N-oxide (TMAO).
+“When gut microbes feed on choline — found in red meat, poultry, eggs, [and] certain fish — they make trimethylamine (TMA), which is absorbed into the body and goes to the liver where it is changed into TMAO,” Dr. John P. Higgins, a sports cardiologist at McGovern Medical School at The University of Texas Health Science Center at Houston (UTHealth) explained.
+“TMAO is bad because it is associated with cholesterol and artery narrowing plaque in important arteries in the body, especially the coronary arteries which supply blood to the heart. So people with high levels of TMAO are at increased risk of heart attacks or stroke,” he noted.
+“Studies have associated TMAO with aspects of inflammation and blood vessel dysfunction,” Dr. Chen added. “It also promotes foam cells in the blood vessels. All of these different things end up promoting different types of heart disease, such as atherosclerosis, and they can also lead to different aspects of cardiovascular risk factors such as high blood pressure.”
+A study published in October 2019 linked TMAO to disease severity and mortality rate in people with peripheral artery disease.
+Research published in March 2023 reported an increase of TMAO in blood plasma was an independent predictor for major adverse cardiac and cerebrovascular events in people who experienced acute myocardial infarction (heart attack).
+And a study published in March 2022 correlated elevated TMAO levels with large artery atherosclerotic ischemic stroke.
+Why is a well-balanced gut microbiome important?
+As the gut microbiome influences not only heart health, but the well-being of the entire body, experts agree that it must be well-balanced for optimal function.
+“An easy way to think about the gut microbiome is like a beautiful farm garden,” Monique Richard, a registered dietitian nutritionist and owner of Nutrition-In-Sight explained to MNT.
+“The various gut bugs, or microbiota, are like the components of the garden, each having their own job function to contribute to a bountiful harvest. The garden needs components like healthy soil, clean water, proper nutrients, structure, and tender love and care,” she continued the analogy.
+According to Dr. Lebowitz:
+“If we eat foods that feed the good bacteria — an alkaline diet high in fruits and veggies — we will be fostering the health of a healthy microbiome. Eating foods that contain too much refined carbohydrates, sugar, and processed foods can have the opposite effect and feed bad bacteria which can trigger inflammation that causes disease — and the arteries and the heart are no exception to this. If there is inflammation in the arteries, as an example, cholesterol will stick to it.”
+Richard said it is also important to note that each person’s gut microbiota has its function in helping process what we eat and supporting various functions of digestion and systemic function.
+“One example includes our gut microbes breaking down compounds into what are called short-chain fatty acids (SCFAs) like butyrate,” she continued.
+“Butyrate has many known benefits which include being anti-inflammatory and cardio-protective. The better equipped our gut is with benefits to nurture the components of our internal ‘garden,’ the more robust the rest of our systems will be since it is all connected and work together,” explained Richard.
+Why is fiber heart-healthy?
+In addition to following a heart-healthy diet, medical experts agree that getting enough dietary fiber is also required to keep the gut-heart connection thriving.
+“Foods that contain fiber are pretty heart healthy — low in saturated fats, low in sodium,” Dr. Chen explained. “And fiber itself is actually food for the gut bacteria. So the more fiber you have, the healthier they will be. They process the fiber and break it down.”
+“Fiber-rich foods definitely lower the risk of heart disease and stroke by quite a bit,” Dr. Rudolph Bedford, a board-certified gastroenterologist at Providence Saint John’s Health Center in Santa Monica, CA, told MNT. “Fiber in itself will help to not only take away many of the bad toxins but will also lower the cholesterol level.”
+“High fiber diets are great because the microbiome breaks fiber down into beneficial things like short-chain fatty acids which are associated with improved blood pressure, blood sugar, less inflammation, and weight loss — all of which can boost [cardiovascular] health,” Dr. Higgens added.
+Past studies have linked higher dietary fiber intake with lower long-term cardiovascular disease risk, as well as reduced incidence and mortality from heart disease.
+Should you take probiotics or prebiotics?
+While eating the right foods can help keep the gut microbiome healthy, there has been a lot of talk over the past few years about taking prebiotic and probiotic supplements to aid with gut health.
+In the most basic terms, probiotics are bacteria beneficial to the gut microbiome, while prebiotics are food for those bacteria.
+Some foods are natural prebiotics — these include oats, bananas, onions, artichokes, spinach, and chia seeds.
+“The problem with probiotics is that they’re a ‘food supplement,’ and much of this is strain-dependent —in other words, what type of strains are within those probiotics,” Dr. Bedford explained. “There’s no doubt that certain strains of probiotics may certainly aid in gut health and may even help in decreasing your risk of cardiovascular disease.”
+“But the fact of the matter is that there are just so many different probiotics out there and none of this is regulated by any government agency,”he continued. “It’s somewhat of a challenge to recommend probiotics to patients, depending upon what it is that they’re actually getting. You should definitely speak to your physician before you start a probiotic or prebiotic.”
+Healthy gut, healthy heart
+With so much evidence pointing to a link between the gut microbiome and cardiovascular health, following a healthy diet rich in foods that aid the good bacteria in the gut is important.
+“The gut microbiome itself may cause elevations of cholesterol levels or decreasing cholesterol levels, increasing in other types of chemicals […] such as TMAO, which may increase the risk of heart attacks and strokes and even kidney disease,” Dr. Bedford said. “Gut health is eminently connected to the heart.”
+“It appears that having a healthy gut is important to heart health, through indirect effects — improving cardiovascular disease risk factors — and direct effects — TMAO-promoting artery-blocking plaque,” Dr. Higgins said. “[It] also boosts [the] immune system.”
+Dr. Lebowitz advised:
+“If your diet is healthy then your diet will promote good health. Eating the right foods, for example, fruits, veggies, and cold water fatty fish like salmon, pacific herring, and sardines can help to reduce inflammation and your risk of heart disease. The right nutrition can work wonders — it can even reverse some of the damage already done.”
+“The quality of what we consume is important, but so is the environment we consume it from,” Richard said. “Be sure to take time to sit at a table in an inviting environment as often as you can.”
+”Take time to slowly chew your food, use your senses to observe, and enjoy the experience of eating. When we are enjoying a meal together around a table — away from technology and convenience — we are feeding so much more than our bodies and gut. These practices are critically more important to the heart, mind, and body than we can measure in a study,” she emphasized.
+“It is also important to remember that all things are interconnected,” added Richard. “Nurturing our ‘internal garden’ also requires other ways the heart can thrive and be protected like exposure to nature and fresh air, loving relationships, activities that bring joy and happiness, regular activity, and sunshine.”
+
+https://www.medicalnewstoday.com/articles/swapping-meat-fish-mushroom-protein-better-reducing-cholesterol
+Swapping meat for mushroom protein may be better for reducing cholesterol
+Protein is a critical diet component, but the source — animal or plant-based — does make a difference.
+Mycoprotein is derived from a fungus and used in some meat substitute products.
+Research on its benefits is ongoing.
+A recent study found that swapping meat and fish for mycoprotein may help significantly lower cholesterol levels.
+Diet plays a crucial role in all the body’s systems. Protein is often part of a well-balanced diet and can come from various sources. Researchers are interested in non-animal protein sources and their benefits for consumers, including how they influence components like cholesterol and blood glucose levels.
+A study published in Clinical Nutrition compared eating mycoprotein or fungal protein products with eating fish and meat over four weeks.
+The results of the study indicated that the group that ate mycoprotein experienced up to a 10% drop in certain cholesterol levels.
+Should future research confirm these findings, consuming mycoprotein might become another tool to help people keep their cholesterol levels in a healthy range.
+What is mycoprotein?
+Mycoprotein comes from a fungus and is high in protein. Products with mycoprotein could be a substitute for animal sources of protein like meat or fish. Mycoprotein also contains high amounts of fiber.
+Researchers of the current study wanted to see how eating mycoprotein instead of meat and fish influenced cholesterol levels, specifically in people who were overweight and had elevated cholesterol levels. Researchers noted that these individuals were more at risk for cardiovascular disease.
+People can influence their cholesterol levels through lifestyle interventions, including diet changes. Beata Rydyger, a registered nutritionist based in Los Angeles, CA, and nutritional contributor to HPVHUB, who was not involved in the study, explained to Medical News Today the importance of controlling cholesterol:
+“Controlling cholesterol is crucial because it impacts heart health and the risk of cardiovascular diseases (CVD), while also being a vital substance the body produces for key functions like forming cell membranes, hormone production, and vitamin D synthesis. The body requires cholesterol, but excess, especially of LDL or ‘bad’ cholesterol, can cause plaque buildup in arteries, leading to atherosclerosis. This increases the risk of blood clots, reduced blood flow, and serious health issues like heart attacks and strokes.”
+“Therefore, managing cholesterol through a balanced diet (reducing saturated and trans fats, increasing fiber and healthy fats), lifestyle adjustments (regular exercise, no smoking, limited alcohol), and medication when needed is essential for cardiovascular health and keeping cholesterol at a healthy level,” she added.
+Improvements in cholesterol, blood sugar with mycoprotein
+The study was a randomized controlled trial. Participants were adults between the ages of 18 and 70. All participants had a body mass index of 27.5 or higher, which indicates being overweight. The researchers assumed that this criteria would also ensure participants had elevated cholesterol. Participants were excluded if they had an allergy to penicillin or mycoprotein or were already using cholesterol-lowering medication.
+Researchers randomly divided 72 participants into two groups. One group received meat and fish products, and the other received mycoprotein products. Researchers sent a particular amount based on participants’ weight. Each week, researchers conducted 24-hour dietary recalls with all participants. Participants then sent in blood samples before and after the intervention for analysis.
+Overall, researchers found more improvements in cholesterol levels among the mycoprotein group.
+For participants in the mycoprotein group, serum total cholesterol decreased by about 5%. Similarly, serum low-density lipoprotein cholesterol and non-high-density lipoprotein cholesterol levels decreased by about 10% and 6%, respectively, in the mycoprotein group.
+Participants in the mycoprotein group also had lower average blood sugar readings and c-peptide concentrations than the control group.
+Study author George Pavis, Ph.D., noted the following to Medical News Today:
+“We have known for a while that eating mycoprotein, the main ingredient in Quorn products, has the potential to lower cholesterol. Up until now, this has relied on studies conducted under strict laboratory conditions, so we didn’t know if this would work in ‘real life’ settings. In our new work, we have ventured away from the laboratory and into the community.”
+“We show that when participants are provided with Quorn products to eat at home for 4 weeks, their levels of ‘total’ and ‘bad’ cholesterol drop by 5-10%. This is a really promising decline over such a short amount of time. We now need to look at what happens if we extend this time, perhaps to 3 or 6 months.”— Dr. George Pavis, study author
+The study adds to growing evidence of mycoprotein’s health benefits, including its potential to decrease the risk of cardiovascular disease.
+More research needed on mycoprotein and cholesterol
+This research does have certain limitations. First, it only lasted a short time and included only a few participants. It also doesn’t establish a causal relationship between any of the factors.
+Some data collection relied on participant self-reporting, which is not always correct. Measurement of blood sugar did not include an A1C test, so more research is needed to see the true effects of mycoprotein on blood sugar levels.
+The reduction in cholesterol also did not change specific cholesterol ratios, warranting further research into mycoprotein’s impact on cholesterol.
+Researchers acknowledge that the way they collected blood samples may have influenced the results. The study also occurred during the COVID-19 pandemic, which could have affected metabolic health. The group Marlow Foods Ltd also helped sponsor the study.
+More research is needed to understand why mycoprotein may affect cholesterol and the underlying mechanisms involved.
+“Exactly how this change in cholesterol occurs isn’t clear. We think this is caused by the type and amount of fiber found in Quorn food, in particular in mycoprotein, but more work is needed!,” Dr. Pavis further noted.
+Is mycoprotein a good source of protein?
+Future research may need to focus more on the long-term health benefits of mycoprotein and any adverse long-term consequences. People who want to switch to eating less meat and more mycoprotein can consult professionals like doctors or nutritionists for guidance.
+Chelsea Johnson, registered dietitian with Memorial Hermann in Houston, who was not involved in the study, noted the following:
+“Plant-based proteins are always encouraged for heart health so mycoprotein would be another type of plant protein that can be introduced in adults’ diets.”
+“Some people may have adverse and severe GI or allergic reactions to mycoprotein, so it’s important to monitor your individual reaction the first time consuming it. Sometimes processed mycoprotein can be high in sodium or fat, so checking the ingredient label is vital. When prepared in a healthy way, mycoprotein is a great protein and fiber source that can be incorporated into any diet.”— Chelsea Johnson, registered dietitian
+
+https://www.medicalnewstoday.com/articles/another-3-common-pesticides-are-now-linked-to-parkinsons-disease-risk
+Another 3 common pesticides are now linked to Parkinson's disease risk
+Parkinson’s disease prevalence is growing fast, and similar to some other neurological conditions, its causes are unclear.
+The potential impact of chemicals that are toxic to neurons in the part of the brain affected by Parkinson’s disease has been investigated since the 1980s.
+Despite this, many chemicals, particularly pesticides and herbicides that are known to pose a risk, are still used in many parts of the world.
+Researchers have now identified a risk of Parkinson’s disease associated with exposure to 14 pesticides.
+Parkinson’s disease is the fastest growing neurological disorder in the world at present, and the reason why is unclear.
+Parkinson’s disease is characterized by loss of neurons in the substantia nigra, a part of the brain responsible for motor control.
+The neurons in this part of the brain create dopamine, a neurotransmitter that is used for signalling in the brain. Loss of this signalling affects motor control, a common symptom in people with Parkinson’s disease.
+There are a number of theories as to how and why Parkinson’s disease develops. One theory is that a peptide called alpha-synuclein accumulates in the substantia nigra neurons of people with Parkinson’s disease.
+These accumultations are known as Lewy bodies, and they appear to damage the neurons and prevent them from creating the dopamine necessary for signalling.
+Other theories include genetic inheritance and mitochondrial dysfunction, similar to some theories about Alzheimer’s disease. Another theory is that Parkinson’s disease is caused by exposure to environmental toxins, such as pesticides and herbicides.
+The idea that some chemicals could damage the neurons in the substantia nigra, and lead to Parkinson’s disease has been around since the 1980s.
+Now, research due to be presented at the American Academy of Neurology’s 76th Annual Meeting, in Denver, CO, held between April 13–18, 2024, outlines how three more pesticides have been linked to increased risk of Parkinson’s disease.
+This research has not yet appeared in a peer-reviewed journal. The study was funded by the Michael J. Fox Foundation.
+Parkinson’s risk depends on amount of pesticide exposure
+Researchers from Amherst College, MA, Washington University in St Louis, MI, and Barrow Neurological Institute, AZ, analyzed data on 21,549,400 Medicare beneficiaries in the United States.
+They then mapped usage of average annual pesticide application from 1992–2008, down to a county level.
+They then used these data to look for an association between exposure to 65 well-documented pesticides and Parkinson’s disease risk across these areas. They also adjusted data for air pollution, rural/ urban residence, and median income.
+Results showed an association between 14 pesticides and increased Parkinson’s disease risk in the Rocky Mountain and Great Plains region. Three of these were found to have the strongest relationship with increased risk: simazine, lindane, and atrazine.
+People living in counties in the top decile for simazine use were found to have a 36% increased risk of Parkinson’s disease, while people living in the counties with the highest use of atrazine and lindane had a 31% and 25% increased risk of Parkinson’s disease, respectively.
+The risk found was dose-dependent. All three of these pesticide are restricted in their use in the European Union and United Kingdom.
+Lead author Dr. Brittany Krzyzanowski, a research assistant professor in the Neuroepidemiology Research Program of the Department of Neurology at Barrow Neurological Institute, told Medical News Today:
+“This study was inspired by our previous work which found a strong association between Parkinson’s disease and cropland density in the Northern Great Plains. In our initial study, we used cropland density as a proxy for pesticide exposure. In the current study, we used data on the different kinds of pesticides to see which pesticides were driving the association between Parkinson’s disease and cropland in this region.”
+Determining causation was challenging, she said, and work was being done by the team to get a more accurate picture of the impact of pesticide exposure.
+“Our work adds to the existing literature by identifying other pesticides that may also increase the risk of [Parkinson’s disease] in specific regions of the U.S. Some pesticides have been banned in the past based upon evidence of negative health effects,“ she told us.
+“We are conducting currently, studies using higher-resolution exposure data to inform public health policy in the future,” Dr. Krzyzanowski added.
+Why it’s difficult to demonstrate pesticide use causes Parkinson’s
+These findings support decades of research that has shown pesticide use has a dose-dependent effect on Parkinson’s disease risk, said Prof. Bastiaan R. Bloem, a neurologist and director of the Radboud University Medical Center of Expertise for Parkinson & Movement Disorders in Nijmegen, the Netherlands, who has written extensively on legislation surrounding pesticide and herbicide usage. Prof. Bloem was not involved in this research.
+One of the challenges of regulating pesticide use to help avoid Parkinson’s disease, is that it was very difficult to determine the specific cause of an individual’s Parkinson’s disease, he said:
+“Whether your Parkinson’s is caused by exposure to pesticides [is a difficult question to answer], and what makes it particularly difficult when it comes to a particular pesticide is [that exposure is] determined by what you eat, what you breathe, where you work, and people change when they leave and move house. They change jobs, they change diets.“
+He wondered: “The  from the University of Wageningen in the Netherlands found that of the nine European countries where they measured pesticides in the households of farmers and their neighbours, they found no less than 100 different pesticides, and what on Earth is the sum of all those small quantities, of all those pesticides?”
+In a recent comment piece published in Nature Reviews Neurology, he points out that the E.U. recently extended marketing authorization for the use of glyphosate, the herbicide found in popular weed killer Roundup, for another 10 years, despite evidence from animal studies showing it affects the substantia nigra.
+He argues that rather than the burden of proof of safety being on researchers, it should instead be on the companies, to prove their chemicals are safe.
+Who is affected by pesticide use?
+Dr. Krzyzanowski said the people most likely to be at risk are those “actively working with these compounds as well as those living within proximity to farmland where these compounds are being applied.”
+Different levels of risk were associated with application at ground level, versus, via aircraft for example, she said.
+Exposure to these chemicals could be via inhalation, but they could also be ingested, warned Prof. Bloem.
+“An additional concern is that these pesticides reached the food chain, for example, red wines in Dutch supermarkets. In the year 2023, contained seven different pesticides, including glyphosate. If you drink a red wine from a top supermarket, you’re drinking Roundup,” he warned.
+
+https://www.medicalnewstoday.com/articles/ozempic-may-delay-kidney-disease-progression-latest-trial-results-show
+Ozempic may delay kidney disease progression, latest trial results show
+Type 2 diabetes is a condition that results from the body no longer responding to insulin, the hormone that controls blood glucose levels.
+People with type 2 diabetes are at high risk of developing chronic kidney disease.
+Semaglutide — sold under the brand name Ozempic — is a drug that, in conjunction with diet and exercise, improves blood glucose (sugar) control in people with diabetes.
+Now, trial results show that semaglutide may also reduce the progression of kidney disease.
+Chronic kidney disease affects one in three adults with diabetes. Both type 1 and type 2 diabetes increase the risk of chronic kidney disease if blood glucose (sugar) levels are not controlled.
+The resulting damage to blood vessels and nephrons in the kidneys means they cannot function effectively.
+As the early stages of kidney disease cause few or no symptoms, people with diabetes should manage their blood glucose, blood pressure and cholesterol levels. They should also get regular checks from their doctor.
+Semaglutide, which is marketed as Ozempic, is one of a group of drugs called glucagon-like peptide-1 (GLP-1) receptor agonists. These mimic a hormone — GLP-1 — that makes the body produce more insulin, reduces appetite and gives feelings of fullness.
+The Food and Drug Administration (FDA) has approved Ozempic as a treatment for type 2 diabetes, in addition to diet and exercise.
+As well as helping control blood glucose, it may also reduce the risk of heart attack, stroke, or death in adults with type 2 diabetes and heart disease. One study has shown that it could also reduce inflammation, which may explain these other health effects.
+Dr. Joshua J. Neumiller, PharmD, American Diabetes Association Board president-elect for healthcare and education, told Medical News Today that “[b]uilding evidence suggests that GLP-1 receptor agonists suppress inflammation and reduce oxidative stress and fibrosis in the kidney, together slowing [chronic kidney disease] progression.”
+Headline results show kidney disease reduction
+Now, the manufacturer of Ozempic — Novo Nordisk — has announced headline results of their latest trial, suggesting that semaglutide can reduce the risk of kidney disease progression by 24% in people who have type 2 diabetes and chronic kidney disease.
+The detailed results of the FLOW trial will be presented at a scientific conference later this year. They have not yet appeared in a peer-reviewed journal.
+Prof. Peter Rossing, research leader at the Steno Diabetes Center in Copenhagen, Denmark, one of the researchers involved in the trial, spoke to MNT about these findings.
+He emphasized:
+“This is a very significant finding; over 500 million people have diabetes, and 30-40% have chronic kidney disease, and we need treatments to stop or reduce progression of the kidney disease as well as to reduce the burden of cardiovascular disease which is high in this population.”
+Prof. Rossing previously co-authored a paper explaining the rationale, design and baseline data of the FLOW trial.
+Dr. Neumiller, who was not involved in this research agreed with this view, noting that “[t]hese headline results from FLOW are very important for people with [type 2 diabetes] and [chronic kidney disease] and the clinicians who care for them.“
+“People with [type 2 diabetes] and [chronic kidney disease] are at amplified risk for cardiovascular-related morbidity and mortality and progression to kidney failure. Treatment options capable of mitigating heart and kidney risk in this population are greatly needed,” he told us.
+Ozempic trial stopped early as it reached endpoint
+Researchers on the FLOW trial recruited 3,533 people with type 2 diabetes and chronic kidney disease from 418 locations in 28 countries
+They randomly allocated them to semaglutide or placebo. Participants self-administered both semaglutide and the visually identical placebo by weekly subcutaneous injection.
+Those in the semaglutide group started on a dose of 0.25 milligrams (mg) per week for 4 weeks, increasing the dose to 0.5 mg, then to 1 mg after 8 weeks and for the rest of the trial.
+In addition, all participants received the maximum labelled or tolerated dose of a RAAS blocking agent — unless contraindicated or not tolerated — which helps control hypertension, acute myocardial infarction (heart attack), chronic systolic heart failure, stroke, and diabetic renal disease.
+Participants had a mean age of 66.6 years, 69.7% were men and 65.7% were white. All participants had type 2 diabetes diagnosed, on average, 17.4 years before the start of the trial and chronic kidney disease.
+The trial was meant to run until the end of 2024, but was stopped early after it reached its primary endpoint, which Prof. Rossing explained:
+“The endpoint is composed of kidney disease progression and cardiovascular and kidney death, and in particular progression to kidney failure and mortality of cardiovascular events. These are frequent in this population of [type 2 diabetes] with [chronic kidney disease], so that we can reduce this with 24% is important and meaningful for patients.”
+Ozempic could protect kidney health, reduce cardiac death risk
+In the announcement, Novo Nordisk stated that the trial had achieved “a statistically significant and superior reduction in kidney disease progression as well as cardiovascular and kidney death of 24% for people treated with semaglutide 1.0 mg compared to placebo.”
+However, Prof. Jagdish Khubchandani, professor of public health at the New Mexico State University, not involved in the trial, cautioned that these are, nevertheless, early-stage findings.
+He advised that:
+“There needs to be repeated assessment with different samples of participants across the world. In the real world setting, people behave differently and have other conditions as well. So, we need more effectiveness trials — [because] effectiveness trials find how well a medication works [unlike] efficacy trials that measure how well it works in RCT/lab studies.”
+Dr. Neumiller echoed this perspective.
+“FLOW represents the first dedicated kidney outcome trial with a GLP-1 receptor agonist in people with [type 2 diabetes] and [chronic kidney disease],“ he told us.
+“The recently released headline results are impressive, yet we await presentation and publication of the complete trial results to fully understand the efficacy and safety outcomes of the trial,” Dr. Neumiller cautioned.
+Ozempic is not without side effects
+Although Ozempic is effective in regulating blood glucose and, according to this announcement, could reduce the risk of complications of chronic kidney disease, it does have side effects, which people taking the drug should be aware of.
+Many people taking the drug report the following mild side effects:
+More serious, but rare, side effects may include:
+Can Ozempic change the treatment landscape?
+Dr. Ishita Prakash Patel, M.D., board-certified endocrinologist at Texas Diabetes and Endocrinology, not involved in this study, also commented on its findings for MNT.
+She expressed some optimism, noting that:
+“If the claims are sturdy, this class of medication would be another validated tool in our kit to not only treat blood sugars and weight, but one of the more devastating outcomes of uncontrolled diabetes – chronic kidney disease. This is good news for people with [type 2 diabetes].”
+Other experts agreed that this could be an important step forward in the search for effective treatments for chronic kidney disease in people with type 2 diabetes.
+Dr. Neumiller told us: “Results from FLOW will, in my opinion, have a dramatic impact on the standard of care for people living with [type 2 diabetes] and [chronic kidney disease]. With primary evidence of kidney benefit in the setting of [type 2 diabetes] and [chronic kidney disease], we now have an agent capable of mitigating heart and kidney risk with a robust and preserved glucose-lowering effect at low eGFR.”
+Prof. Khubchandani agreed, saying: “Given that these medications have multiple beneficial effects, help control blood sugar, and are reasonably well tolerated with kidney dysfunction, these could change the landscape of treatment for those with [type 2 diabetes] and kidney dysfunction which is common among people with [type 2 diabetes].”
+
+https://www.medicalnewstoday.com/articles/mediterranean-diet-exercise-improve-gut-health-aid-weight-loss
+Mediterranean diet and exercise improve gut health, leading to weight loss
+A new study shows adherence to a Mediterranean diet and regular exercise benefited the diversity and composition of the gut microbiome and led to weight loss.
+The study may point toward a new avenue of research exploring the impact of diet and exercise on gut health.
+Despite the promising results, experts say the study’s design may have yielded a less definitive finding, and more research is needed.
+A new study investigated the effects of combining a Mediterranean diet with exercise and how that impacts the gut microbiome.
+The findings show changes in gut microbiota in participants who closely adhered to the Mediterranean diet and engaged in an exercise program compared to those who ate a Mediterranean diet alone.
+The people in the diet and exercise group also lost more weight.
+A high quality diet and regular exercise are known to benefit overall health.
+However, experts say diet is key to weight loss, while exercise benefits cardiovascular, metabolic, and cognitive health, as well as strength and balance.
+This would be the first study to suggest a synergistic benefit of diet and exercise for gut health and weight loss if its findings are confirmed.
+The study was recently published in The American Journal of Clinical Nutrition.
+Diet and exercise benefit gut health, aid weight loss
+For the 1-year study, 400 participants ages 55–75 at high cardiovascular risk were divided into two groups of 200 individuals each.
+Before the trial, researchers collected dietary information, body measurements, blood samples, and stool samples for microbiota analysis using liquid chromatography-tandem mass spectrometry. Information was collected again at the end of the trial.
+The first group, the lifestyle intervention group, was placed on an energy-reduced Mediterranean diet and received personal training advice from a dietitian.
+Participants were encouraged to take brisk walks, or the equivalent, for 45 minutes daily and perform specific strength, balance, and flexibility exercises.
+In addition, members of the lifestyle intervention group received two monthly visits from researchers, consisting of one group session, one individual session, and one individual phone call.
+The second control group was given recommendations for following a Mediterranean diet in two group sessions over the course of the year without any advice regarding physical activity. As a result, their degree of adherence to the Mediterranean diet was up to them, or as the study terms it, ad libitum.
+After a year, the researchers found changes in the levels of four metabolites in the stool samples belonging to the lifestyle intervention group compared to the control group.
+Levels of two of these metabolites, DPA and adrenic acid, had decreased, while levels of oleic acid and 3-MAA had increased. A reduction of Eubacterium hallii and Dorea microbes was also observed.
+The researchers note that some of these differences are associated with changes in some cardiovascular risk factors. Also of interest to the researchers were the metabolic processes, or subnetworks, initiated by these metabolites.
+“It has been observed that physical activity has beneficial effects on gut microbiota composition by increasing the abundance of butyrate-producing bacteria or by decreasing the abundance of harmful species,” senior investigator Dr. Jordi Salas-Salvadó, a professor in the Department of Biochemistry and Biotechnology at the University of Southern Catalonia, Spain, explained to Medical News Today.
+Different dietary habits may impact gut health
+Despite the promising findings, the different dietary approaches for the lifestyle intervention and control groups make drawing definitive conclusions difficult.
+Both groups were supposed to be following the same energy-deficient or calorie-deficient diet.
+“If you look at the characteristics and study the results, and look at [their] Mediterranean diet adherence score, it was significantly different [between the two groups], Dr. Babak Firoozi, a board certified gastroenterologist with MemorialCare Medical Group in California, told MNT. Dr. Firoozi was not involved in the study.
+“In other words, the control group did not stick to the diet the way the intervention group did,” Dr. Firoozi explained.
+Dr. Salas-Salvadó agreed, noting: “The ad libitum nature of the [control group’s] diet could have significantly affected the difference between the microbiota results of the two groups more than the physical activity intervention.”
+“An unrestricted diet may introduce variability in nutrient intake, impacting the gut microbiota composition differently than exercise alone. This variability in diet could overshadow the specific effects of physical activity on the gut microbiome, making it challenging to isolate the sole influence of exercise on microbial outcomes.”
+— Dr. Jordi Salas-Salvadó, senior study investigator
+More research on diet, exercise, and gut health needed
+Dr. Firoozi proposed the study may signal a need for further investigations of the interplay between diet and exercise, although it would need to be structured differently.
+He said the findings on the effects of exercise are different from what he believes to be conventional wisdom for gut health.
+“I don’t think [the authors] can conclusively say [it was exercise that made the difference], but it definitely is interesting to at least postulate,” Dr. Firoozi said.
+Michelle Routhenstein, cardiology dietitian and preventive cardiology nutritionist at EntirelyNourished, not involved in the study, said some evidence has shown that exercise “may help with improving microflora diversity and positively changing the Bacteroidetes: Firmicutes ratio in the gut.”
+Still, Routhenstein agreed that further studies are needed.
+“In my practice, I encounter individuals who have been lifelong athletes yet suffer from advanced coronary artery disease. Many admit to neglecting their nutrition, prioritizing exercise, and assuming their appearance reflected good cardiometabolic health,” Routhenstein said.
+“I believe it’s time to shift our focus away from debating the importance of either exercise or nutrition on cardiometabolic health and instead recognize the significance of both. It’s crucial to understand that optimal heart, gut, brain, and overall health and longevity require a balanced emphasis on both exercise and nutrition.”
+— Michelle Routhenstein, registered dietitian nutritionist
+
+https://www.medicalnewstoday.com/articles/how-eczema-research-on-skin-bacteria-may-lead-to-a-treatment-for-itching
+How eczema research on skin bacteria may lead to a treatment for itching
+Itching is one of the most distressing and poorly understood symptoms of eczema.
+A recent study used animal models, human tissue, and nerve fibers to investigate the condition’s tendency to produce itching.
+The researchers concluded that the bacteria Staphylococcus aureus may be an important part of the puzzle.
+They hope their findings may eventually lead to treatments for a range of skin conditions.
+Eczema, also called atopic dermatitis, is one of the most common skin conditions, affecting an estimated 223 million people globally.
+One of the dominant symptoms is itch. While scratching can momentarily relieve the sensation, it can also cause skin damage, increase the risk of skin infections, and exacerbate inflammation.
+“Itch plays a big part in the quality of life of people with eczema,” explained Carsten Flohr a professor at Kings College London and a member of the British Association of Dermatologists.
+“It impacts both the quality of sleep and the amount of sleep people get. It also affects social and working life for adults, and the enjoyment of school for children,” Flohr told Medical News Today.
+Andrew Proctor, the chief executive of the National Eczema, says eczema itching is a constant issue for people with the condition.
+“For the millions of children and adults with atopic eczema, relentless itch is one of the most difficult things about living with this complex condition,” Proctor told Medical News Today.
+“It often leads to the painful ‘itch-scratch cycle,’” he added, “where you scratch to relieve the itch, then the skin is damaged, and it becomes even more itchy, with even greater temptation to scratch.”
+There are few long-term treatments that can reliably soothe this type of itching.
+However, a recent study published in the journal Cell investigated how a particular skin microbe might drive itch in eczema. Experts hope the results could lead to new treatments.
+Skin, microbiome, and eczema
+The skin is considered to be the largest organ of the body and plays a myriad of vital roles.
+It protects against pathogens, dehydration, mechanical damage, and ultraviolet light. It also carries receptors that provide sensations such as pain, temperature, and touch.
+Importantly for eczema, it also contains receptors called pruriceptors, which produce the sensation of itch.
+Like many other parts of the body, the skin is home to a thriving microbial community — the skin microbiome, which contains vast numbers of bacteria, fungi, and other microbes.
+Although there is growing interest in the human microbiome, scientists have a long way to go before they understand its complex roles in health and disease.
+“Your skin bacteria and skin immune system talk to each other and they talk to the bacteria in your gut. Just like with your gut, having a diverse balance is the key to a happy microbiome,” said Flohr, who wasn’t involved in the recent research.
+Understanding how bacteria interact with each other as well as the skin and the immune system may one day help treat various skin conditions.
+Medical News Today contacted one of the new study’s authors, Isaac Chiu, an associate professor of immunobiology at Harvard Medical School in Massachusetts. We asked why he decided to study skin microbes and eczema.
+“My lab previously found that skin microbes can cause pain when under the skin’s surface. We wondered whether microbes also cause itch,” he said.
+So, they investigated.
+Staphylococcus aureus bacteria and eczema
+S. aureus is a pathogenic bacteria and one of the most common causes of skin infections.
+According to Chiu, research has shown that “S. aureus is one of the leading bacteria found on atopic dermatitis lesions.”
+Evidence also suggests that S. aureus may help drive the inflammation associated with eczema.
+However, until now, its links to itch were unclear.
+The recent Cell study looks at this relationship in depth using animal models, human tissue, and nerve fibers.
+Details of the study on skin bacteria’s role in eczema
+The researchers initially applied S. aureus to the skin of mice, which they said increased the likelihood that the animals would develop dermatitis.
+These mice also scratched much more than mice without S. aureus.
+Next, the researchers set out to understand how S. aureus could trigger this itch response by focusing on enzymes produced by the bacteria. S. aureus produces 10 proteases, so the scientists focused on these.
+Eventually, they identified protease V8 as the primary driver of the itch response: When the scientists injected V8 alone into mice, they started scratching.
+As further evidence, the researchers showed that patches of human skin affected by eczema had higher levels of V8 than unaffected skin.
+Sensory interactions with eczema
+Finally, the scientists said they demonstrated that V8 could stimulate pruriceptor neurons from mice and humans by interacting with a specific receptor.
+The receptor in question is proteinase-activated receptor 1 (PAR1). When the team blocked PAR1, it decreased itch and reduced skin damage caused by V8 and S. aureus.
+V8 seems to be a particularly useful enzyme for S. aureus. Previous research shows “that V8 is important for many S. aureus processes,” Chiu explained.
+“For example, it helps acquire nutrients, neutralizes immune factors, and cleaves proteins in the bloodstream,” he said.
+Moving forward with eczema research
+The Federal Drug Administration (FDA) has already approved vorapaxar (ZONTIVITY), an oral drug that blocks PAR1 and helps prevent thrombotic cardiovascular events.
+“Currently, there are only oral compounds available to block PAR1. There are no current topical formulations of these drugs,” Chiu said.
+He hopes scientists will develop topical formulations, which might make a difference to people with eczema and other skin conditions that cause itch. However, he explains that widely available treatments like these will be a “long way” off.
+Chiu and his colleagues are continuing to investigate. “We are still looking into the role of V8 in itch and skin inflammation,” he said.
+“It’s possible that the scratching could induce inflammation and longer-term consequences, such as immune responses. I am also interested in other proteases from microbes and whether they could cause itch,” Chiu added.
+Additionally, he plans to continue investigations into how PAR1 interacts with V8.
+Flohr was upbeat about the future implications of these findings:
+“This is an exciting discovery because it could open the doors to researchers finding new ways to treat eczema. For example, a drug that can block the enzyme that seems to be involved may be useful to treat itching,” he said.
+
+https://www.medicalnewstoday.com/articles/can-you-inherit-obesity-from-your-parents-new-research-says-its-possible
+Can you inherit obesity from your parents? New research says it's possible
+The children of parents who had obesity in midlife are significantly likely to also have obesity at the same age, according a new study.
+The research follows two generations of families to investigate the transmission of obesity from parents to their children.
+The mechanisms for why obesity is transmitted generationally are still not well understood, but researchers believe the factors to be both genetic and environmental.
+New research from Norway is shedding light on the “intergenerational transmission” of obesity.
+That is, how obesity may be passed down from parents to children.
+In a forthcoming presentation at the European Congress on Obesity, scientists are reporting that children of parents who had obesity during midlife are more likely to also have obesity at the same age.
+The researchers said they also discovered that parents’ body mass index (BMI) scores influenced the same measurements in their children.
+“We found that offspring had a considerably increased odds of living with obesity in middle age if one or both parents lived with obesity in middle age,” Mari Mikkelsen, PhD, a fellow and a clinical dietician at UiT The Arctic University of Norway as well as an author of the research, told Medical News Today.
+One expert who wasn’t involved in the research said these findings expand on previous studies on obesity and genetics.
+“Several lines of research converge to strongly suggest that obesity can be transmitted from one generation to the next. Several studies have shown correlations between parents and their offspring for obesity-related measures like body mass index. This study goes a step further by demonstrating familial resemblance in middle age,” Peter Katzmarzyk, PhD, a professor of population and public health sciences at Louisiana State University and a spokesperson for The Obesity Society, told Medical News Today.
+The new research hasn’t been published yet in a peer-reviewed journal.
+Parents, children, and obesity
+In their presentation, the researchers state that children of parents with obesity in midlife are 6 times more likely to also have obesity at the same age, compared to children of parents whose weight fell within a healthy BMI range.
+If only one parent had obesity, the researcher said, children are still 3 times as likely to have obesity during midlife.
+The researchers, however, did find a slight variation if only one parent had obesity, based on the sex of the parent. If the father had obesity, children were 3.74 times as likely to have obesity. If it was the mother, the likelihood was 3.44 times.
+Researchers also noted a direct correlation between the body mass index (BMI) score of the parents and that of their children. BMI is a measure of body fat that is calculated based on an individual’s height and weight. The study found that for every 4-point increase in the mother’s BMI, their children’s BMI increased by .8 points. On the father’s side, every 3.1 points of BMI increased their children’s BMI by .74 points.
+“Previous research shows strong association between parents’ and their children’s BMI. This is also seen in adolescents. Few studies have investigated the associations in middle age offsprings,” said Mikkelsen.
+Multi-generational obesity
+Mikkelsen and her team based their findings on the Tromsø study, an ongoing population-based study in Norway.
+They included data from two generations of families in midlife, with ages ranging from 40 to 59 years old. Parents were involved in the fourth wave of the study, conducted in 1994 and 1995, while their children took part in the seventh wave, conducted in 2015 and 2016.
+In total, the team utilized data from more than 2,000 families that included both parents and children.
+Researchers found that the results of their analysis persisted after adjusting for common confounding factors such as age, sex, education, and physical activity level.
+A similar study, also from Norway, published in 2016 that included more than 8,000 parent-children groups found a strong association between parental BMI and children’s BMI, this time during adolescence. Parents who were overweight or had obesity were more likely to negatively affect their children’s BMI. Like the present study, the association was strongest when both parents were overweight or had obesity.
+Experts note that the present research does not help to explain the myriad ways, both genetic and environmental, that obesity is believed to be transmitted generationally.
+“In our study we have investigated associations, but I cannot conclude anything regarding causal effects,” said Mikkelsen. “The interaction between genes and environment is complex and the studying of intergenerational associations captures the effect of both but does not necessarily distinguish between the two.”
+Genetics do play a role in obesity. Studies have shown that environmental factors alone are not always enough to promote obesity. Some individuals may be more susceptible to obesity due to their genes. On the other-hand, environmental and behavioral factors, such as diet, physical activity, access to calorie-dense foods, stress, and medication, are also predictors of obesity.
+For this reason, obesity is described as a “multifactorial disease” because its cause cannot be attributed to a single factor.
+The cost of obesity
+Obesity is a global health concern.
+In the United States, more than 4 in 10 adults are living with obesity. From the years 2000 to 2020, the prevalence of obesity increased from 30% to 42%. Cases of severe obesity also nearly doubled during that same time period.
+Individuals with obesity are at increased risk for a number of serious diseases and health issues, including:
+Due to the numerous co-morbidities of obesity, it is a driver of healthcare costs. It is estimated that the cost of obesity in the United States ranges from $147 billion to $210 billion annually.
+
+https://www.medicalnewstoday.com/articles/taking-daily-fiber-supplement-may-improve-older-adults-brain-function-12-weeks
+Taking a fiber supplement may improve older adults' brain function in 12 weeks
+Diseases such as dementia and Alzheimer’s disease can cause the normal mild cognitive decline of an aging brain to worsen.
+There is currently no cure for dementia or Alzheimer’s disease.
+Researchers from King’s College London have found that taking a dietary fiber supplement may help improve brain function in older adults.
+As we age, all parts of the body — including the brain — begin to slow down. It is normal for a person to have trouble multitasking, finding certain words, or remembering names in a healthy aging brain.
+In some cases, diseases such as dementia and Alzheimer’s disease can cause mild cognitive decline of an aging brain to worsen. This can lead to more serious issues including memory loss, inability to plan or solve problems, speaking or writing difficulties, mood changes, anxiety, sleeping issues, and confusion with places, dates, and times.
+While there is currently no cure for dementia or Alzheimer’s disease, adopting healthy lifestyle choices and certain medications may help slow its progression.
+Now, researchers from King’s College London have found that taking a dietary fiber supplement may help improve brain function in older adults.
+Scientists also found that the fiber supplements did not affect participants’ muscle strength.
+The study was recently published in the journal Nature Communications.
+An increasingly older global population
+According to the World Health Organization, the world’s population is aging at a more rapid rate than in the past and people are living to a much older age. The number of people aged 60 and older globally was about 1.4 billion in 2022 and is expected to hit 2.1 billion by 2050.
+With this increase in aging worldwide, it is important to have new ways to combat age-related conditions such as cognitive decline, Dr. Claire Steves, professor of aging and health and head of the Department of Twin Research & Genetic Epidemiology at King’s College London and senior author of this study told Medical News Today.
+“With this comes an increase in the number of age-related conditions, which have a major impact on the ability of older people to continue to live well independently,” Dr. Steves continued.
+“We lack effective treatments for many age-related conditions, so it is really important that we focus our energies in this area. We need to research these topics more to expand our knowledge on ways to prevent, slow, and indeed reverse age-associated declines, wherever possible,” she said.
+Two prebiotic fiber supplements
+For this study, Dr. Steves and her team focused on two prebiotic supplements — the dietary fiber inulin and the plant-based carbohydrate fructooligosaccharides (FOS).
+“Research in recent years has shown that the bacteria within our guts, known as the gut microbiome, are linked to our health and well-being. Studies have shown connections between these bacteria and the brain, known as the gut-brain axis. Connections have also been shown with other organs including with muscle health. We decided to test whether improving the health of the gut bacteria using a prebiotic could improve brain and muscle function,” Dr. Steves explained.
+“We know that inulin and FOS are safe, cheaply accessible, commercially available prebiotic supplements associated with healthy gut bacteria. We were also influenced by another trial which looked at inulin and FOS in a nursing home population. They showed improvements in hand grip strength, exhaustion levels, and overall measures of frailty, in those who had the inulin and FOS supplement,” she continued.
+Previous studies have found that inulin changes the gut microbiome, helps reduce neuroinflammation, and improves traumatic brain injury recovery.
+Research regarding FOS has reported the supplement may help weaken the development of Alzheimer’s disease by reducing beta-amyloid in the brain, and assist with lowering neuroinflammation and improving memory.
+Fiber improves brain function
+Researchers recruited 36 pairs of twins over the age of 60 for this study. One twin in each pair was given a dietary fiber supplement each day for 12 weeks, while the other twin received a placebo.
+Scientists monitored the study participants through video, online questionnaires, and cognitive tests. Additionally, participants were asked to participate in resistance exercises and also ate a protein supplement aimed at improving muscle function.
+The study was double-blind in which neither the analysis team nor the study participants knew which they received until the study was finished.
+At the study’s conclusion, researchers found the group receiving a fiber supplement had improved performance in brain function assessment tests, including the Paired Associates Learning test — an early marker for Alzheimer’s disease — as well as reaction time and processing speed tests.
+“We were pleasantly surprised to find that those who received the prebiotic supplement had an improvement in memory and thinking tests compared to the placebo, over a 12-week time frame,” Dr. Steves said. “We know there is a connection between the gut bacteria and the brain, so this study provides further evidence of this link, and is hugely promising for future studies aiming to improve memory and prevent declines with age.”
+“We have shown that a simple, cheap, and accessible fiber supplement, which leads to increased numbers of healthy bacteria in the gut, can actually influence brain function and memory test results,” she added. “Seeing this positive result in just three months holds huge promise for enhancing memory and brain health in our aging population.”
+The scientists did report there was no significant difference in muscle strength between the supplement and placebo groups.
+Further research needed
+MNT also spoke with Dr. Clifford Segil, a neurologist at Providence Saint John’s Health Center in Santa Monica, CA, about this study.
+Dr. Segil said he agreed with the study authors that it’s difficult to report improvements in cognition and for the study to have clinical meaningfulness at this stage.
+“Even after reading the study, I like to say you are what you eat, but sometimes your brain is not what you eat so it’s hard to say that changing your diet is going to make you not age, have better muscles, and better cognition,” he explained.
+“Although, poor diets are associated with diabetes, high blood pressure, and cardiovascular and heart risk factors. So even though I can’t say adding fiber may or may not help, there’s clearly things that you shouldn’t eat — it’s harder to say what you should eat,” he added.
+Dr. Segil said he would like to see blood tests to accompany this research to see if participants’ sugars and albumin go up or down.
+“I’d love to see these kinds of tests repeated with some blood tests to provide more meaningful data to a physician like myself, to see if these kinds of things change things in the blood,” he added. “And then if it changes things in the blood, the next step would be (to) see if they change things in the brain.”
+Fiber’s positive impact on the brain
+MNT also spoke with two registered dietician nutritionists for their reaction to this study’s findings.
+“Knowing the connection between the gut-brain axis, I was not surprised that the study observed a positive impact on cognitive health markers by way of prebiotic supplementation,” Monique Richard, a registered dietitian nutritionist and owner of Nutrition-In-Sight explained to MNT.
+“The metabolic byproducts from microbes as they break down, ferment, and consume food such as fiber — inulin and FOS used in the study — create other compounds which can be anti-inflammatory, protective, and beneficial for other systems in the body,” she said.
+“One side effect of decreased inflammation is (a) possible reduction in brain fog, forgetfulness, confusion or lethargy. Gut microbiota can also assist in forming co-factors — specific nutrient helpers — that optimize pathways for neurotransmitter conduction and assist in the chain of events that helps parts of our brain function on all cylinders,” she continued.
+“I often encourage my clients to increase their fiber intake for a whole host of reasons such as lowering blood sugar and cholesterol or to support digestion,” Molly Rapozo, registered dietitian nutritionist and senior nutrition and health educator at Pacific Neuroscience Institute in Santa Monica, CA, told MNT. “Since improving cognition is the primary goal of my patient population, this kind of research outcome will be very motivating for them.”
+Whole food sources of prebiotic fiber
+Both Rapozo and Richard said they would be interested to see similar research carried out with whole food sources of prebiotic fiber rather than supplements.
+“I would encourage readers to think about fiber as part of a whole food approach, meaning it is just one component of all the nutrients and variety of compounds we need for a healthy gut. Learn what foods are particularly rich in fiber — hint: fruits, vegetables, beans, nuts, seeds, (and) whole grains — that you like and will eat,” Richard said.
+“A very general recommendation is to shoot for consuming 25-35 gm of fiber a day. As an example, 1/2 cup of beans can range from 6–9 grams of fiber, depending on the type of bean/pulse.”— Monique Richard, registered dietitian nutritionist
+“Pull up a chart online listing the amounts of fiber in certain foods to gauge how much you may be taking in a day,” she said.
+“High-fiber whole foods include additional prebiotic fibers — as the study supplemented with two instead of all four types — as well as antioxidants, vitamins, and minerals,” Rapozo explained.
+“The following common vegetables are high in prebiotic fiber: garlic, onion/leek/shallot, asparagus, beets, fennel, green peas, snow peas, corn, and cabbage. Legumes that are a good source of prebiotics are chickpeas, lentils, kidney beans, and soybeans. Fruit sources include apples, nectarines, peaches, persimmon, watermelon, grapefruit, and pomegranate. Whole grains include barley, rye, wheat, and oats. Cashew and pistachio nuts are high in prebiotic fiber as well.”— Molly Rapozo, registered dietitian nutritionist
