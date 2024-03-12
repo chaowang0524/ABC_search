@@ -3,6 +3,7 @@ from search import function_query
 import random
 import os
 import time
+
 app = Flask(__name__)
 
 
@@ -25,26 +26,28 @@ def search(query, search_method):
     if search_method == "Boolean Search":
         # Process the query using Boolean search
         start_time = time.time()
-        results,result_num = function_query(bort="b", user_query=query)
+        results, result_num = function_query(bort="b", user_query=query)
         end_time = time.time()
 
     elif search_method == "TF-IDF Search":
         # Process the query using TFIDF
         start_time = time.time()
-        results,result_num = function_query(bort="t", user_query=query)
+        results, result_num = function_query(bort="t", user_query=query)
         end_time = time.time()
 
     elif search_method == "Semantic Search":
         # Process the query using Fuzzy search
         # results = f"Fuzzy search for '{query}'"
         start_time = time.time()
-        results,result_num = function_query(bort="s", user_query=query)
+        results, result_num = function_query(bort="s", user_query=query)
         end_time = time.time()
-        
+
     if results:
         # return results
-        time_taken = round(end_time - start_time,2)
-        return render_template("return.html", results=results,result_num=result_num,time_taken=time_taken)
+        time_taken = round(end_time - start_time, 2)
+        return render_template(
+            "return.html", results=results, result_num=result_num, time_taken=time_taken
+        )
     else:
         # Get the path to the folder containing the funny animal images
         folder_path = "Site/static/css/Crash_animals"

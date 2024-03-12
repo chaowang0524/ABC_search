@@ -12,8 +12,6 @@ import os
 import torch
 
 
-
-
 stemmer = PorterStemmer()  # let's use the basic stemmer
 
 # import the documents
@@ -31,8 +29,12 @@ for i in range(len(documents)):
 
 # Remove the httplinks and titles from the documents. Also delete the new lines.
 for i in range(len(documents)):
-    documents[i] = (documents[i].replace(httplinks[i], "").replace("\n", " ").strip())  # replace remaining newline characters with space.
-    documents[i] = (documents[i].replace(titles[i], "").replace("\n", " ").strip())  # replace remaining newline characters with space.
+    documents[i] = (
+        documents[i].replace(httplinks[i], "").replace("\n", " ").strip()
+    )  # replace remaining newline characters with space.
+    documents[i] = (
+        documents[i].replace(titles[i], "").replace("\n", " ").strip()
+    )  # replace remaining newline characters with space.
 
 
 # Segment the documents into sentences
@@ -42,23 +44,47 @@ stemmed_documents = []  # list of strings
 documents_lists = []  # again list of lists
 
 for document in documents:
-    temp_sentences_unstemmed = re.split("([.!?])\s+", document)  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
+    temp_sentences_unstemmed = re.split(
+        "([.!?])\s+", document
+    )  # here we split the sentences with delimiters being their own elements in the list. However, that's unnecessary now because in our doc each line is a sentence. We don't know if it stays that way, so let's keep it.
     # next line joins the delimiters with the previous sentence (don't worry about it)
-    sub_doc = [temp_sentences_unstemmed[i]+ (temp_sentences_unstemmed[i + 1] if i + 1 < len(temp_sentences_unstemmed) else "") for i in range(0, len(temp_sentences_unstemmed), 2)]
+    sub_doc = [
+        temp_sentences_unstemmed[i]
+        + (
+            temp_sentences_unstemmed[i + 1]
+            if i + 1 < len(temp_sentences_unstemmed)
+            else ""
+        )
+        for i in range(0, len(temp_sentences_unstemmed), 2)
+    ]
     documents_lists.append(sub_doc)
-    document = word_tokenize(document)    # split the doc into words to prepare it for stemming 
-    stemmed_document = " ".join([stemmer.stem(word) for word in document])  # stem and join the text back
-    stemmed_documents.append(stemmed_document)  # this produces a list of strings that we use for TF-IDF
-    temp_sentences_stemmed = re.split("([.!?])\s+", stemmed_document)  # the same splitting with .!? as delimiters
-    sub_stemmed_doc = [temp_sentences_stemmed[i] + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "") for i in range(0, len(temp_sentences_stemmed), 2)]
-    stemmed_documents_lists.append(sub_stemmed_doc)  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
+    document = word_tokenize(
+        document
+    )  # split the doc into words to prepare it for stemming
+    stemmed_document = " ".join(
+        [stemmer.stem(word) for word in document]
+    )  # stem and join the text back
+    stemmed_documents.append(
+        stemmed_document
+    )  # this produces a list of strings that we use for TF-IDF
+    temp_sentences_stemmed = re.split(
+        "([.!?])\s+", stemmed_document
+    )  # the same splitting with .!? as delimiters
+    sub_stemmed_doc = [
+        temp_sentences_stemmed[i]
+        + (temp_sentences_stemmed[i + 1] if i + 1 < len(temp_sentences_stemmed) else "")
+        for i in range(0, len(temp_sentences_stemmed), 2)
+    ]
+    stemmed_documents_lists.append(
+        sub_stemmed_doc
+    )  # this now produces a list of our docs, where each doc is a list of sentences. This is only for context.
 
 
 # Boolean search
 # The boolean search will prioritize the titles
 # Make a boolean matrix of our terms and convert it to dense
 cv_titles = CountVectorizer(lowercase=True, binary=True)
-sparse_matrix_titles = cv_titles.fit_transform(titles) 
+sparse_matrix_titles = cv_titles.fit_transform(titles)
 dense_matrix_titles = sparse_matrix_titles.todense()
 td_matrix_titles = dense_matrix_titles.T
 t2i_titles = cv_titles.vocabulary_  # The dictionary for query
@@ -68,7 +94,7 @@ cv_documents = CountVectorizer(lowercase=True, binary=True)
 sparse_matrix_documents = cv_documents.fit_transform(documents)
 dense_matrix_documents = sparse_matrix_documents.todense()
 td_matrix_documents = dense_matrix_documents.T  # .T transposes the matrix
-t2i_documents = cv_documents.vocabulary_ # The dictionary for query
+t2i_documents = cv_documents.vocabulary_  # The dictionary for query
 
 
 # Boolean operands
@@ -86,9 +112,15 @@ d = {
 
 def rewrite_token(t):
     # Attempt to find the term in titles or documents
-    term_in_titles = f'td_matrix_titles[t2i_titles.get("{t}", -1)]' if t in t2i_titles else None
-    term_in_documents = f'td_matrix_documents[t2i_documents.get("{t}", -1)]' if t in t2i_documents else None
-    
+    term_in_titles = (
+        f'td_matrix_titles[t2i_titles.get("{t}", -1)]' if t in t2i_titles else None
+    )
+    term_in_documents = (
+        f'td_matrix_documents[t2i_documents.get("{t}", -1)]'
+        if t in t2i_documents
+        else None
+    )
+
     if term_in_titles:
         return term_in_titles
     elif term_in_documents:
@@ -101,8 +133,9 @@ def rewrite_token(t):
 def rewrite_query(query):  # rewrite every token in the query
     return " ".join(rewrite_token(t) for t in query.split())
 
-sparse_td_matrix_titles = (sparse_matrix_titles.T.tocsr())
-sparse_td_matrix_documents = (sparse_matrix_documents.T.tocsr()) 
+
+sparse_td_matrix_titles = sparse_matrix_titles.T.tocsr()
+sparse_td_matrix_documents = sparse_matrix_documents.T.tocsr()
 
 
 def boolean_return(user_query):
@@ -121,7 +154,7 @@ def boolean_return(user_query):
             result.append(doc_result)
         return result, len(hits_list)
     except:
-        return [None,None]
+        return [None, None]
 
 
 # TF-IDF search
@@ -137,10 +170,14 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
         # if np.dot(query_vec, tf_idf_matrix):
         hits = np.dot(query_vec, tf_idf_matrix)
         # Rank hits
-        ranked_scores_and_doc_ids = sorted(zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True)
+        ranked_scores_and_doc_ids = sorted(
+            zip(np.array(hits[hits.nonzero()])[0], hits.nonzero()[1]), reverse=True
+        )
         # print(ranked_scores_and_doc_ids)
         results = []  # Initialize an empty list to store results
-        results.append(f"Query: {user_query}")  # Append the query to the results list as the first element
+        results.append(
+            f"Query: {user_query}"
+        )  # Append the query to the results list as the first element
 
         seen_doc_indices = set()
         unique_docs_found = 0
@@ -185,7 +222,7 @@ def search_with_TFIDF(user_query, query_string, exact_match=False):
 
         return [results, unique_docs_found]
     except:
-        return [None,None]
+        return [None, None]
 
 
 # Sentence Bert
@@ -203,15 +240,16 @@ file_path = "Site/all-MiniLM-L6-v2/sentence_embeddings.pt"
 
 if os.path.exists(file_path):
     sentence_embeddings = torch.load(file_path)
-else: # if the file doesn't exist, then compute
+else:  # if the file doesn't exist, then compute
     sentence_embeddings = model.encode(all_sentences, convert_to_tensor=True)
     torch.save(sentence_embeddings, "Site/all-MiniLM-L6-v2/sentence_embeddings.pt")
 
-# Create a mapping of sentences to their parent document index    
+# Create a mapping of sentences to their parent document index
 sentence_to_doc_index = []
 for doc_index, document in enumerate(documents_lists):
     for sentence in document:
         sentence_to_doc_index.append(doc_index)
+
 
 def search_with_embeddings(query):
     # Encode the query to get its embedding
@@ -226,7 +264,9 @@ def search_with_embeddings(query):
     ranked_sentences_indices = np.argsort(-cosine_scores.cpu().numpy())
 
     results = []  # Initialize an empty list to store results
-    results.append(f"Query: {query}")  # Append the query to the results list as the first element
+    results.append(
+        f"Query: {query}"
+    )  # Append the query to the results list as the first element
     # Display top 3 similar documents, do not show the duplicates
     unique_docs_found = 0
     seen_doc_indices = set()
@@ -237,7 +277,9 @@ def search_with_embeddings(query):
         # if the matched sentence is too short, skip it
         if len(all_sentences[idx]) < 25:
             continue
-        elif cosine_scores[idx].item() < 0.25:  # Stop searching when the score is below 0.2
+        elif (
+            cosine_scores[idx].item() < 0.25
+        ):  # Stop searching when the score is below 0.2
             break
         else:
             doc_result = {
@@ -253,7 +295,7 @@ def search_with_embeddings(query):
             if unique_docs_found == 99:  # Stop after finding 99 unique documents
                 break
 
-    return results,unique_docs_found
+    return results, unique_docs_found
 
 
 # QUERY
@@ -262,12 +304,14 @@ def search_with_embeddings(query):
 def function_query(bort, user_query):
 
     if bort == "b":
-        
+
         return boolean_return(user_query)
 
     # using TF-IDF search
     elif bort == "t":
-        if '"' in user_query or "'" in user_query:    # if the query contains quotes, skip the stemming
+        if (
+            '"' in user_query or "'" in user_query
+        ):  # if the query contains quotes, skip the stemming
             # replace " with space
             quoted_query = user_query
             user_query = user_query.replace('"', "")
@@ -275,7 +319,7 @@ def function_query(bort, user_query):
             return search_with_TFIDF(quoted_query, stemmed_query, exact_match=True)
         else:
             stemmed_query = " ".join(stemmer.stem(word) for word in user_query.split())
-            print(stemmed_query)
+            # print(stemmed_query)
             return search_with_TFIDF(user_query, stemmed_query, exact_match=False)
 
     # using fuzzy search
